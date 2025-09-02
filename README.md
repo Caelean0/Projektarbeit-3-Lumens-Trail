@@ -1,8 +1,8 @@
 ## Personal Fork
 This is a personal fork of this repository, primarily used as a showcase. 
 My tasks and responsibilities within the project include all of the programming duties listed below, including the development of our complex enemy ai within the second level, as well as managing the SCRUM workflow and the project management toolchain.
----
 
+---
 # Lumen's Trail – 3rd Semester Project
 This project, "Lumen's Trail", was created by Team SunlitStudios, consisting of 3rd semester Game Development students at SRH Heidelberg. The assignment was to create a 2D platformer game using the Unity game engine. The executable for the game can be downloaded here: https://lord-brandon.itch.io/lumens-trail
 
